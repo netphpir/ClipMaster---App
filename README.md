@@ -7,6 +7,14 @@ Windows automatic clipboard manager that saves everything you copy instantly. Fe
 
 ---
 
+## 📥 دانلود مستقیم
+
+**[📥 دانلود ClipboardManager.exe (نسخه 1.0)](https://netphp.ir/ClipboardManager.exe)**
+
+> حجم: حدود 36 مگابایت | ویندوز 10 و 11 | بدون نیاز به نصب
+
+---
+
 ## ✨ ویژگی‌ها
 
 - **ذخیره‌سازی خودکار:** هر متنی را کپی کنید، بلافاصله ذخیره می‌شود
@@ -22,7 +30,7 @@ Windows automatic clipboard manager that saves everything you copy instantly. Fe
 
 ## 🖥️ نحوه استفاده
 
-1. فایل `ClipMaster.exe` را اجرا کنید
+1. فایل `ClipboardManager.exe` را از لینک بالا دانلود کنید
 2. نرم‌افزار در پس‌زمینه اجرا می‌شود
 3. هر متنی را کپی کنید، خودکار ذخیره می‌گردد
 4. برای مشاهده تاریخچه، پنجره اصلی را باز نگه دارید
@@ -33,13 +41,7 @@ Windows automatic clipboard manager that saves everything you copy instantly. Fe
 
 - ویندوز 10 یا 11
 - بدون نیاز به نصب پایتون یا کتابخانه اضافی
-- حجم کم (حدود 30 مگابایت)
-
----
-
-## 📥 دانلود
-
-فایل `ClipMaster.exe` را از همین صفحه دانلود و اجرا کنید.
+- حجم کم (حدود 36 مگابایت)
 
 ---
 
@@ -70,6 +72,14 @@ Automatic clipboard manager software for Windows
 
 ---
 
+## 📥 Direct Download
+
+**[📥 Download ClipboardManager.exe (Version 1.0)](https://netphp.ir/ClipboardManager.exe)**
+
+> Size: ~36 MB | Windows 10 & 11 | No installation required
+
+---
+
 ## ✨ Features
 
 - **Auto-Save:** Everything you copy is automatically saved
@@ -85,8 +95,8 @@ Automatic clipboard manager software for Windows
 
 ## 🖥️ How to Use
 
-1. Run `ClipMaster.exe`
-2. The software runs in the background
+1. Download `ClipboardManager.exe` from the link above
+2. Run the file (no installation needed)
 3. Anything you copy is automatically saved
 4. Keep the main window open to view history
 
@@ -96,13 +106,7 @@ Automatic clipboard manager software for Windows
 
 - Windows 10 or 11
 - No need to install Python or extra libraries
-- Lightweight (approximately 30 MB)
-
----
-
-## 📥 Download
-
-Download and run `ClipMaster.exe` from this page.
+- Lightweight (approximately 36 MB)
 
 ---
 
