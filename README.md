@@ -60,7 +60,7 @@
 خیر، بدون نیاز به نصب اجرا می‌شود.
 
 **در کدام ویندوزها کار می‌کند؟**  
-ویندوزهای ۷، ۸، ۱۰ و ۱۱ – هر دو نسخه ۳۲ و ۶۴ بیتی.
+ویندوزهای ۷، ۸، ۱۰ و ۱۱ – ۶۴ بیتی.
 
 **آیا اطلاعات من ذخیره می‌شود؟**  
 همه اطلاعات فقط روی کامپیوتر خودتان ذخیره می‌شود و هیچ داده‌ای به جایی ارسال نمی‌گردد.
@@ -79,7 +79,7 @@ Yes, completely free with no limitations.
 No, it runs without installation.
 
 **Which Windows versions are supported?**  
-Windows 7, 8, 10, and 11 – both 32-bit and 64-bit.
+Windows 7, 8, 10, and 11 – 64-bit.
 
 **Is my data saved?**  
 All information is stored only on your computer and no data is sent anywhere.
